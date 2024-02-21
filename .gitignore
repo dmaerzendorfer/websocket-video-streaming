@@ -15,7 +15,7 @@ node_modules/
 .npm
 
 # Environment variables
-.env
+# .env
 
 # Built files
 dist/
